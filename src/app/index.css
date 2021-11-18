@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #edeff2;
+}
+
+.link {
+  color: #007bb5;
+  font-size: 17px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.link:hover {
+  color: #00b3f0;
+  text-decoration: underline;
+  text-decoration-color: #00b3f0;
+  background-color: transparent;
+  border-color: transparent;
+}
